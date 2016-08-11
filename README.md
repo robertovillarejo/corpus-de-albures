@@ -1,7 +1,7 @@
 # corpus-de-albures
 Este repositorio contiene tres corpus relacionados con el albur:
 - albures de la antología del albur:
-Se trata de una colección de albures extraídos del libro "Antología del albur" (Hernández, 2009)
+Se trata de una colección de albures extraídos del libro "Antología del albur" (Hernández, 2006)
 
 - frases de doble sentido
 Las frases de este corpus corresponden a los del corpus anterior, se trata de los verdaderos significados de los albures.Estas frases mantienen el argot sexual mexicano que se utiliza en el albur.
